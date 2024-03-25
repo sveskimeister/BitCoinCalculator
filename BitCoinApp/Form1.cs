@@ -9,7 +9,6 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.json;
 using Newtonsoft.Json;
 
 namespace BitcoinApp
